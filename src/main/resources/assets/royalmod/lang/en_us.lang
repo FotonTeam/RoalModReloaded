@@ -1,0 +1,32 @@
+item.pickaxe_diamond.name=Special diamond pickaxe
+item.pickaxe_iron.name=Special iron pickaxe
+item.pickaxe_wood.name=Special wood pickaxe
+item.pickaxe_stone.name=Special stone pickaxe
+item.heal_item_one.name=Heal Item One
+item.heal_item_two.name=Heal Item Two
+item.frying_pan_blue.name=Command Blue
+item.frying_pan_green.name=Command Green
+item.frying_pan_red.name=Command Red
+item.frying_pan_yellow.name=Command Yellow
+tile.royalmod.barricade.name=Barricade
+
+roalmod.xp.1=+1 xp
+roalmod.xp.3=+3 xp
+roalmod.xp.7=+7 xp
+roalmod.xp.10=+10 xp
+roalmod.xp.50=+50 xp
+roalmod.xp.20=+20 xp
+roalmod.xp.5=+5 xp
+
+royalmod.addblock=Mines ores:
+royalmod.coal_ore=Coal ore
+royalmod.diamond_ore=Diamond Ore
+royalmod.emerald_ore=Emerald Ore
+royalmod.gold_ore=Gold Ore
+royalmod.iron_ore=Iron Ore
+royalmod.lapis_ore=Lapis Ore
+royalmod.redstone_ore=Redstone Ore
+
+
+royalmod.breakblocks=Break blocks:
+itemGroup.creativeTab=Game Items Tab

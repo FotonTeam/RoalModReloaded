@@ -1,0 +1,30 @@
+item.pickaxe_diamond.name=Специальная алмазная кирка
+item.pickaxe_iron.name=Специальная железная кирка
+item.pickaxe_wood.name=Специальная деревянная кирка
+item.pickaxe_stone.name=Специальная каменная кирка
+item.heal_item_one.name=Медпак
+item.heal_item_two.name=Улучшенный Медпак
+tile.royalmod.barricade.name=Баррикада
+roalmod.xp.1=+1 опыт
+roalmod.xp.3=+3 опыта
+roalmod.xp.7=+7 опыта
+roalmod.xp.10=+10 опыта
+roalmod.xp.50=+50 опыта
+roalmod.xp.20=+20 опыта
+roalmod.xp.5=+5 опыта
+
+royalmod.addblock=Добывает руды:
+royalmod.coal_ore=Угольная руда
+royalmod.diamond_ore=Алмазная руда
+royalmod.emerald_ore=Изумрудная руда
+royalmod.gold_ore=Золотая руда
+royalmod.iron_ore=Железная руда
+royalmod.lapis_ore=Лазуритная руда
+royalmod.redstone_ore=Редстоун руда
+
+item.frying_pan_blue.name=Команда синих
+item.frying_pan_green.name=Команда зеленых
+item.frying_pan_red.name=Команда красных
+item.frying_pan_yellow.name=Команда желтых
+royalmod.breakblocks=Блоков сломано
+itemGroup.creativeTab=Предметы для миниигры

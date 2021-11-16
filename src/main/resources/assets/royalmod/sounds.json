@@ -1,0 +1,16 @@
+{
+  "open_bank": {
+    "category": "player",
+    "sounds": [{
+      "name": "royalmod:open_bankomat",
+      "stream": true
+    }]
+  },
+  "update_item": {
+    "category": "player",
+    "sounds": [{
+      "name": "royalmod:update_item",
+      "stream": false
+    }]
+  }
+}

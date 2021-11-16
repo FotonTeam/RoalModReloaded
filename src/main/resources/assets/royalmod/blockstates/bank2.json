@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "normal": { "model": "royalmod:bank2" },
+    "facing=north": {
+      "model": "royalmod:bank2"
+    },
+    "facing=east": {
+      "model": "royalmod:bank2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "royalmod:bank2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "royalmod:bank2",
+      "y": 270
+    }
+  }
+}
